@@ -1,0 +1,74 @@
+binomial_name,genus,common_name,distance_to_trail_m
+Acer saccharum,Acer,Sugar Maple,42
+Acer saccharum,Acer,Sugar Maple,55
+Acer saccharum,Acer,Sugar Maple,38
+Acer saccharum,Acer,Sugar Maple,18
+Acer saccharum,Acer,Sugar Maple,47
+Acer saccharum,Acer,Sugar Maple,52
+Acer saccharum,Acer,Sugar Maple,16
+Acer saccharum,Acer,Sugar Maple,12
+Acer saccharum,Acer,Sugar Maple,23
+Acer saccharum,Acer,Sugar Maple,44
+Acer rubrum,Acer,Red Maple,24
+Acer rubrum,Acer,Red Maple,41
+Acer rubrum,Acer,Red Maple,29
+Acer rubrum,Acer,Red Maple,50
+Acer rubrum,Acer,Red Maple,46
+Quercus rubra,Quercus,Northern Red Oak,60
+Quercus rubra,Quercus,Northern Red Oak,16
+Quercus rubra,Quercus,Northern Red Oak,65
+Quercus rubra,Quercus,Northern Red Oak,11
+Quercus rubra,Quercus,Northern Red Oak,23
+Quercus alba,Quercus,White Oak,70
+Quercus alba,Quercus,White Oak,62
+Quercus alba,Quercus,White Oak,75
+Fagus grandifolia,Fagus,American Beech,48
+Fagus grandifolia,Fagus,American Beech,21
+Fagus grandifolia,Fagus,American Beech,57
+Fagus grandifolia,Fagus,American Beech,63
+Betula alleghaniensis,Betula,Yellow Birch,40
+Betula alleghaniensis,Betula,Yellow Birch,45
+Betula alleghaniensis,Betula,Yellow Birch,50
+Betula papyrifera,Betula,Paper Birch,28
+Betula papyrifera,Betula,Paper Birch,33
+Fraxinus americana,Fraxinus,White Ash,7
+Fraxinus americana,Fraxinus,White Ash,42
+Fraxinus americana,Fraxinus,White Ash,46
+Fraxinus pennsylvanica,Fraxinus,Green Ash,30
+Ulmus americana,Ulmus,American Elm,25
+Ulmus americana,Ulmus,American Elm,32
+Tilia americana,Tilia,American Basswood,5
+Tilia americana,Tilia,American Basswood,59
+Tilia americana,Tilia,American Basswood,25
+Carya ovata,Carya,Shagbark Hickory,6
+Carya ovata,Carya,Shagbark Hickory,64
+Carya ovata,Carya,Shagbark Hickory,58
+Carya cordiformis,Carya,Bitternut Hickory,49
+Prunus serotina,Prunus,Black Cherry,14
+Prunus serotina,Prunus,Black Cherry,36
+Prunus serotina,Prunus,Black Cherry,41
+Ostrya virginiana,Ostrya,Eastern Hop-hornbeam,44
+Carpinus caroliniana,Carpinus,American Hornbeam,39
+Tsuga canadensis,Tsuga,Eastern Hemlock,67
+Tsuga canadensis,Tsuga,Eastern Hemlock,72
+Tsuga canadensis,Tsuga,Eastern Hemlock,60
+Pinus strobus,Pinus,Eastern White Pine,55
+Pinus strobus,Pinus,Eastern White Pine,62
+Picea glauca,Picea,White Spruce,58
+Abies balsamea,Abies,Balsam Fir,61
+Rhamnus cathartica,Rhamnus,Common Buckthorn,5
+Rhamnus cathartica,Rhamnus,Common Buckthorn,8
+Rhamnus cathartica,Rhamnus,Common Buckthorn,12
+Rhamnus cathartica,Rhamnus,Common Buckthorn,6
+Rhamnus cathartica,Rhamnus,Common Buckthorn,10
+Ailanthus altissima,Ailanthus,Tree-of-heaven,4
+Ailanthus altissima,Ailanthus,Tree-of-heaven,7
+Ailanthus altissima,Ailanthus,Tree-of-heaven,9
+Ailanthus altissima,Ailanthus,Tree-of-heaven,6
+Acer platanoides,Acer,Norway Maple,11
+Acer platanoides,Acer,Norway Maple,14
+Acer platanoides,Acer,Norway Maple,9
+Acer platanoides,Acer,Norway Maple,13
+Robinia pseudoacacia,Robinia,Black Locust,6
+Robinia pseudoacacia,Robinia,Black Locust,10
+Robinia pseudoacacia,Robinia,Black Locust,8
